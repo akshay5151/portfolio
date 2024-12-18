@@ -1,4 +1,4 @@
-const subtitles = ["I am Full Stack Developer", "I am an Avid Gamer", "I am an Enthusiastic Traveller"];
+const subtitles = ["I am Full Stack Developer", "I am an Avid Gamer", "I am an Enthusiastic Traveller", "I am a Lifelong Learner"];
 const subtitleElement = document.querySelector(".subtitle.subtitle-typed");
 let index = 0;
 let charIndex = 0;
